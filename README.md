@@ -1,5 +1,8 @@
 Classification of Diabetes Using Artificial Neural Networks (ANN)
-Overview
+
+
+Overview:
+
 Diabetes classification using Artificial Neural Networks (ANNs) involves predicting whether an individual has diabetes based on several features related to their health and lifestyle. ANNs are a class of machine learning models inspired by the human brain's structure and function. They can learn complex patterns in data and make predictions or classifications based on these patterns.
 
 Dataset

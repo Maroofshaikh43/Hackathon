@@ -9,14 +9,14 @@ Dataset:
 
 For diabetes classification, a typical dataset might include the following features:
 
-Pregnancies:  Number of times the individual has been pregnant.
-Glucose:  Plasma glucose concentration after a 2-hour oral glucose tolerance test.
-Blood Pressure:  Diastolic blood pressure (mm Hg).
-Skin Thickness:  Triceps skin fold thickness (mm).
-Insulin:  2-hour serum insulin (mu U/ml).
-BMI (Body Mass Index):  Weight in kg / (height in m)^2.
-Diabetes Pedigree Function:  A function that scores the likelihood of diabetes based on family history.
-Age:  Age of the individual.
+Pregnancies:           Number of times the individual has been pregnant.
+Glucose:        Plasma glucose concentration after a 2-hour oral glucose tolerance test.
+Blood Pressure:        Diastolic blood pressure (mm Hg).
+Skin Thickness:        Triceps skin fold thickness (mm).
+Insulin:       2-hour serum insulin (mu U/ml).
+BMI (Body Mass Index):       Weight in kg / (height in m)^2.
+Diabetes Pedigree Function:        A function that scores the likelihood of diabetes based on family history.
+Age:        Age of the individual.
 
 Data Preprocessing:
 
